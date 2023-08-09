@@ -4,6 +4,6 @@ Welcome! Shippr provides toolkits to build realtime features in no time.
 
 ## Link
 
-* [@shippr/client] - Minimal HTTP client to interact with Shippr's API
-* [@shippr/react] - React library of real time components
-* [@shippr/api-docs] - Documentation
+* [@shippr/client](https://github.com/getshippr/shippr-js-client/) - Minimal HTTP client to interact with Shippr's API
+* [@shippr/react](https://github.com/getshippr/shippr-react) - React library of real time components
+* [@shippr/api-docs](https://github.com/getshippr/api-docs) - Documentation
